@@ -2,10 +2,10 @@
 
 I'm Catalin also known as Apalki.
 
-Working as an R&D Engineer at Eaton for 8 years
-Currently learning programing on boot.dev
+:office: Working as an R&D Engineer at Eaton for 8 years \
+:computer: Currently learning programing on [boot.dev](www.boot.dev) \
 
-more TBA
+:construction: more TBA
 
 <!--
 **Apalki666/Apalki666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
