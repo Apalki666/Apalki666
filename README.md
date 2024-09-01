@@ -5,6 +5,9 @@ I'm Catalin also known as Apalki.
 :office: Working as an R&D Engineer at Eaton for 8 years \
 :computer: Currently learning programing on [boot.dev](www.boot.dev)
 
+This account is mainly used for learning.
+
+
 :construction: more TBA
 
 <!--
